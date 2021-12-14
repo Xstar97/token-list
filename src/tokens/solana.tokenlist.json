@@ -43812,6 +43812,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "",
+      "symbol": "UGNDK",
+      "name": "Ugandan knuckles COIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Xstar97/crypto/main/logo3.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
